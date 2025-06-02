@@ -11,35 +11,66 @@
 Mastery of the following technologies:
 <ul>
   <li>
-    Basic programming languages:
+    Programming languages:
     <br>
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <br>
-    and russian programming language <strong>1С</strong>
+    <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/1C-F9DC3E?style=for-the-badge&logoColor=black" />
   </li>
   <li>
-    Web languages:
+    Backend:
     <br>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+    <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91.svg?style=for-the-badge&logo=.Net&logoColor=white" />
+    <img src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-1572B6.svg?style=for-the-badge&logo=.Net&logoColor=white" />
+    <img src="https://img.shields.io/badge/Razor%20Pages-230175C2.svg?style=for-the-badge&logo=.Net&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blazor-7F52FF.svg?style=for-the-badge&logo=.Net&logoColor=white" />
+    <img src="https://img.shields.io/badge/Entity%20Framework%20Core-00ADD8.svg?style=for-the-badge&logo=.Net&logoColor=white" />
+    <img src="https://img.shields.io/badge/ADO.NET-6DA55F.svg?style=for-the-badge&logo=.Net&logoColor=white" />
+    <img src="https://img.shields.io/badge/MAUI-0078D6.svg?style=for-the-badge&logo=.Net&logoColor=white" />
+    <img src="https://img.shields.io/badge/REST%20API-E34F26.svg?style=for-the-badge&logo=.Net&logoColor=white" />
+    <img src="https://img.shields.io/badge/SignalR-777BB4.svg?style=for-the-badge&logo=.Net&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=Node.js&logoColor=white" />
+  </li>
+  <li>
+    Frontend:
+    <br>
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
+    <img src="https://img.shields.io/badge/SCSS-%23F05033.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" />
   </li>
   <li>
     Other programming languages (Beginer or middle level):
     <br>
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=C&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" />
   </li>
   <li>
     Database:
     <br>
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/MS%20SQL%20Sever-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=Postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=SQLite&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-%231572B6.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
+    <img src="https://img.shields.io/badge/ClickHouse-%231572B6.svg?style=for-the-badge&logo=ClickHouse&logoColor=white" />
+  </li>
+  <li>
+    DevOps:
+    <br>
+    <img src="https://img.shields.io/badge/-Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  </li>
+  <li>
+    Tools:
+    <br>
+    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=Git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-6C6694.svg?style=for-the-badge&logo=Figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FE7A16.svg?style=for-the-badge&logo=Postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Insomnia-6F52B5.svg?style=for-the-badge&logo=Insomnia&logoColor=white" />
+    <img src="https://img.shields.io/badge/Boomerang-%2307405e.svg?style=for-the-badge&logo=Boomerang&logoColor=white" />
   </li>
   <li>
     Design and media tools:
